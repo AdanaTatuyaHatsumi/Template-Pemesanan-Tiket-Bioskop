@@ -20,4 +20,6 @@ Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat
 
 Modified project form [Akibsheikh48](https://github.com/Akibsheikh48/movie-seat-booking)
 
+### By Kasirun Alfauzi BM Sitorus
+
 
